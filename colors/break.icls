@@ -1,0 +1,15 @@
+<scheme name="break" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2017-07-05T08:08:47</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2016.2.1.0.0</property>
+    <property name="modified">2017-07-05T08:15:23</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="32" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="24" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
+</scheme>
