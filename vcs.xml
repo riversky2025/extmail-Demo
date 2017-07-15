@@ -14,6 +14,30 @@
           <option name="url" value="http://git.rivesky.cn" />
           <option name="userName" value="riversky" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.rivesky.cn:82/riversky/ssm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.rivesky.cn:82" />
+          <option name="userName" value="riversky" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://115.159.205.234/riversky/ssm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://115.159.205.234:82/riversky/ssm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://115.159.205.234:82" />
+          <option name="userName" value="riversky" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://115.159.205.234:82/riversky/iotsp2017.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\injipro" />
