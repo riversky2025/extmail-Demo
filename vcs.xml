@@ -46,6 +46,10 @@
           <option name="url" value="https://github.com/Johnson-hd/maven_ssm.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/uptop/JavaWebSocket.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\injipro" />
