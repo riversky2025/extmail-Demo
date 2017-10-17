@@ -2,7 +2,7 @@
   <component name="GoLibraries">
     <option name="urls">
       <list>
-        <option value="file://E:/go/hello" />
+        <option value="file://D:/Go/gopath" />
       </list>
     </option>
   </component>
