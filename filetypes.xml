@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="gtpl" type="Go" />
       <mapping pattern=".mailfilter" type="PLAIN_TEXT" />
+      <mapping pattern="debug" type="PLAIN_TEXT" />
       <mapping pattern="Readme" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
