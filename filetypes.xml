@@ -6,6 +6,7 @@
       <mapping pattern=".mailfilter" type="PLAIN_TEXT" />
       <mapping pattern="debug" type="PLAIN_TEXT" />
       <mapping pattern="Readme" type="PLAIN_TEXT" />
+      <mapping pattern="Read" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="mainfest" type="XML" />
     </extensionMap>
