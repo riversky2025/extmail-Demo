@@ -8,7 +8,6 @@
       <mapping pattern="Readme" type="PLAIN_TEXT" />
       <mapping pattern="Read" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="mainfest" type="XML" />
     </extensionMap>
   </component>
