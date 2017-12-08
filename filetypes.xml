@@ -9,8 +9,9 @@
       <mapping pattern="debug" type="PLAIN_TEXT" />
       <mapping pattern="Readme" type="PLAIN_TEXT" />
       <mapping pattern="Read" type="PLAIN_TEXT" />
-      <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="property" type="PLAIN_TEXT" />
+      <mapping ext="install" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="mainfest" type="XML" />
     </extensionMap>
   </component>
