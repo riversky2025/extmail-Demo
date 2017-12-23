@@ -3,16 +3,17 @@
     <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.classpath;.git;.hg;.idea;.myeclipse;.mymetadata;.project;.settings;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="gtpl" type="Go" />
+      <mapping pattern="Readme" type="PLAIN_TEXT" />
       <mapping pattern="集群的安装" type="PLAIN_TEXT" />
-      <mapping pattern="集群的启动过程" type="PLAIN_TEXT" />
+      <mapping pattern=".keystore" type="PLAIN_TEXT" />
+      <mapping pattern="Read" type="PLAIN_TEXT" />
       <mapping pattern="storekey" type="PLAIN_TEXT" />
       <mapping pattern=".mailfilter" type="PLAIN_TEXT" />
-      <mapping pattern="orderMonitor" type="PLAIN_TEXT" />
-      <mapping pattern="debug" type="PLAIN_TEXT" />
       <mapping pattern="orderMonitor.sql" type="PLAIN_TEXT" />
+      <mapping pattern="debug" type="PLAIN_TEXT" />
+      <mapping pattern="orderMonitor" type="PLAIN_TEXT" />
+      <mapping pattern="集群的启动过程" type="PLAIN_TEXT" />
       <mapping pattern="install" type="PLAIN_TEXT" />
-      <mapping pattern="Readme" type="PLAIN_TEXT" />
-      <mapping pattern="Read" type="PLAIN_TEXT" />
       <mapping ext="properties2" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="property" type="PLAIN_TEXT" />
