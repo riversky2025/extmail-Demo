@@ -14,6 +14,7 @@
       <mapping pattern="集群的启动过程" type="PLAIN_TEXT" />
       <mapping pattern="sqldata" type="PLAIN_TEXT" />
       <mapping pattern="orderMonitor.sql" type="PLAIN_TEXT" />
+      <mapping pattern="FlowAmemento" type="PLAIN_TEXT" />
       <mapping pattern="install" type="PLAIN_TEXT" />
       <mapping ext="properties2" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
