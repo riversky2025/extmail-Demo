@@ -7,10 +7,13 @@
       <mapping pattern="集群的安装" type="PLAIN_TEXT" />
       <mapping pattern=".keystore" type="PLAIN_TEXT" />
       <mapping pattern="Read" type="PLAIN_TEXT" />
+      <mapping pattern="ip" type="PLAIN_TEXT" />
       <mapping pattern="storekey" type="PLAIN_TEXT" />
       <mapping pattern=".mailfilter" type="PLAIN_TEXT" />
+      <mapping pattern="waiip2" type="PLAIN_TEXT" />
       <mapping pattern="debug" type="PLAIN_TEXT" />
       <mapping pattern="orderMonitor" type="PLAIN_TEXT" />
+      <mapping pattern="waiip" type="PLAIN_TEXT" />
       <mapping pattern="集群的启动过程" type="PLAIN_TEXT" />
       <mapping pattern="sqldata" type="PLAIN_TEXT" />
       <mapping pattern="orderMonitor.sql" type="PLAIN_TEXT" />
