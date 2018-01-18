@@ -21,6 +21,7 @@
       <mapping pattern="install" type="PLAIN_TEXT" />
       <mapping ext="properties2" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="property" type="PLAIN_TEXT" />
       <mapping ext="install" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
