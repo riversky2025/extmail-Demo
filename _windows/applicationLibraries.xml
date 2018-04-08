@@ -1,5 +1,13 @@
 <application>
   <component name="libraryTable">
+    <library name="lib">
+      <CLASSES>
+        <root url="file://E:/openremote_sources/Designer_2_14_0_SNAPSHOT-2014-01-31_MacFly/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://E:/openremote_sources/Designer_2_14_0_SNAPSHOT-2014-01-31_MacFly/lib" recursive="false" />
+    </library>
     <library name="Python 2.7.10 (C:\Python27\python.exe) interpreter library">
       <CLASSES />
       <JAVADOC />
